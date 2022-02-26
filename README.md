@@ -6,4 +6,4 @@ More specifically, we did not treat this problem as computing the optimal portfo
 given $1000 initial investment, make that number on 9/10/2021 as large as possible.
 To summarize our strategy very briefly, we want to trade gold as few times as possible because the 1% transaction fee (buy and sell) is much greater than the average daily return of gold, and mainly foucs on trading bitcoin due to its high return.
 
-Our methods and results are in the paper attached in this repository.
+Our methods, results, are in the paper attached in this repository. Our code is also here. 
